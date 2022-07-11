@@ -282,7 +282,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/home-bg-1.jpg);
+    background: url(../web-resume/src/assets/home-bg-1.jpg);
     background-size: cover;
     height: 100vh;
 }

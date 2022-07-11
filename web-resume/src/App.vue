@@ -7,16 +7,18 @@
     </div>
   </div>
    ./Preloader -->
-  <HeaderNav />
+  <Header />
+  <Home />
 
 </template>
 
 <script>
-  import HeaderNav from "@/components/HeaderNav";
+  import Header from "@/components/HeaderNav";
+  import Home from "@/components/HomeSection";
 
   export default {
     name: 'App',
-    components: { HeaderNav },
+    components: { Header, Home },
     data() {
       return {
         title:'My Portfolio'
