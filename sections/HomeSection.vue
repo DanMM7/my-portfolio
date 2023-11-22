@@ -26,7 +26,7 @@ const Position = ref('Software Engineer');
   ==================================================*/
 
   #home {
-    background: url(../assets/home-bg-1.jpg);
+    background: url(../home-bg-1.jpg);
     background-size: cover;
     height: 100vh;
   }
