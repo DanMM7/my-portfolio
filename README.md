@@ -1,23 +1,52 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+# 3D Portfolio Website
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+Welcome to my 3D Portfolio Website! This space showcases my passion for 3D art and design. Explore a collection of my projects, ranging from intricate 3D models to immersive virtual environments. Feel free to navigate through the various sections and get a glimpse into my creative journey.
 
-## Introduction
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
- 
-In this course, you'll learn the following:
-- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
-- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
-- TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animations
-You'll also learn how to:
-- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Implement sending emails through a form on the website
-- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+## Table of Contents
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+1. [About Me](#about-me)
+2. [Portfolio Highlights](#portfolio-highlights)
+3. [Gallery](#gallery)
+4. [Technical Skills](#technical-skills)
+5. [Contact](#contact)
+
+## About Me
+
+I am a dedicated 3D artist with a keen eye for detail and a passion for creating visually stunning and immersive experiences. My journey in the world of 3D design has led me to explore various techniques and tools, allowing me to bring my ideas to life in the digital realm.
+
+## Portfolio Highlights
+
+- **Project A: Title**
+  Description: A brief overview of the project, including the inspiration, challenges faced, and the techniques utilized.
+
+- **Project B: Title**
+  Description: Explore the details of another noteworthy project, showcasing the diversity of my skills and creativity.
+
+- **Project C: Title**
+  Description: Highlighting the uniqueness of this project, providing insights into the creative process and showcasing the final result.
+
+## Gallery
+
+Dive into my gallery to witness the visual feast of 3D art. Each piece is a testament to my dedication and artistic vision. From character designs to architectural renders, the gallery reflects the breadth of my capabilities.
+
+![Sample Image 1](/images/sample_image_1.jpg)
+![Sample Image 2](/images/sample_image_2.jpg)
+![Sample Image 3](/images/sample_image_3.jpg)
+
+## Technical Skills
+
+- **3D Modeling:** Proficient in various modeling tools such as Blender, Maya, and ZBrush.
+- **Texturing:** Experience with Substance Painter and Photoshop for creating realistic textures.
+- **Rendering:** Knowledge of rendering engines like V-Ray and Arnold for achieving high-quality visual output.
+- **Animation:** Skilled in creating animations to bring characters and scenes to life.
+- **VR/AR:** Familiar with virtual and augmented reality technologies for immersive experiences.
+
+## Contact
+
+I'm always open to collaboration and new opportunities. Feel free to reach out to me through the following channels:
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- **ArtStation:** [Your ArtStation Profile](https://www.artstation.com/yourprofile)
+
+Thank you for visiting my 3D Portfolio Website! I hope you enjoy exploring my work as much as I enjoyed creating it.
