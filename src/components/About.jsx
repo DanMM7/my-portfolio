@@ -49,10 +49,9 @@ const About = () => {
       >
         Focused and quick-learning Software Developer with 3 years of experience
         in data analysis, data visualization, computer science, programming,
-        and UX design for various projects and clients. I'm a quick learner and
-        collaborate closely with clients tocreate efficient, scalable, and user-friendly
-        solutions that solvereal-world problems. Let's work together to bring your ideas
-        to life!
+        and UX design for various projects and clients. I collaborate closely with
+        clients tocreate efficient, scalable, and user-friendly solutions that
+        solvereal-world problems. Let's work together to bring your ideas to life!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
