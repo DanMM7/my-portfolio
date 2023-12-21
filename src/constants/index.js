@@ -116,16 +116,21 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Geo-spatial Software Developer",
+    company_name: "Giscoe",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "November 2022 - August 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Develop, test, debug and maintain an array of custom web-based GIS applications, tools, and supporting web services using standard software life cycle processes.",
+      "Support the infrastructure by maintaining and developing new capabilities in Microsoft .Net.",
+      "Reviewing data to identify errors and inconsistencies in order to correct them before further analysis is performed.",
+      "Implementing new technologies to improve efficiency in workflow processes.",
+      "Providing support for software and hardware systems that are used by other departments within an organization.",
+      "Designing custom applications using GIS technology to meet business needs.",
+      "Using statistical analysis tools to process and analyze data in order to identify patterns or trends.",
+      "Developing for web and mobile application development using JavaScript, HTML5, CSS, SQL, Python for the Esri ArcGIS platform.",
+      "Provide support, troubleshooting, modifications, enhancements, and maintenance for existing GIS applications, scripts, tools, and web services.",
     ],
   },
   {
