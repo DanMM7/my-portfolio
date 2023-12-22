@@ -207,37 +207,37 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Cobra",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
-        name: "react",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Desktop App",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Snake Game",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/DanMM7/Cobra.git",
   },
   {
-    name: "Job IT",
+    name: "Check-Box",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
       {
-        name: "react",
+        name: "vue",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Web-App",
         color: "green-text-gradient",
       },
       {
@@ -246,28 +246,28 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/DanMM7/check-box.git",
   },
   {
-    name: "Trip Guide",
+    name: "Traffic_light",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "C",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Embedded Systems",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Arduino",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/DanMM7/Traffic_light.git",
   },
 ];
 
