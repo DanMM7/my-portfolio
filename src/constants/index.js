@@ -73,19 +73,19 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
+    name: "Python",
     icon: typescript,
   },
   {
-    name: "React JS",
+    name: "Vue JS",
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
+    name: "FastAPI",
     icon: redux,
   },
   {
-    name: "Tailwind CSS",
+    name: "SCSS",
     icon: tailwind,
   },
   {
@@ -93,11 +93,11 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
+    name: "Postgres DB",
     icon: mongodb,
   },
   {
-    name: "Three JS",
+    name: "SQL",
     icon: threejs,
   },
   {
@@ -105,11 +105,11 @@ const technologies = [
     icon: git,
   },
   {
-    name: "figma",
+    name: "GitHub",
     icon: figma,
   },
   {
-    name: "docker",
+    name: "Power BI",
     icon: docker,
   },
 ];
