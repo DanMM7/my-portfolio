@@ -4,17 +4,18 @@ import {
   creator,
   web,
   javascript,
-  typescript,
   html,
   css,
-  reactjs,
-  redux,
-  tailwind,
-  nodejs,
-  mongodb,
+  pbi,
+  vuejs,
+  mysql,
+  php,
+  python,
+  ubuntu,
+  mssql,
+  postgresql,
   git,
   figma,
-  docker,
   zakheni,
   giscoe,
   ulwembu,
@@ -22,7 +23,6 @@ import {
   netcafe,
   snake,
   traffic,
-  threejs,
 } from "../assets";
 
 export const navLinks = [
@@ -74,43 +74,43 @@ const technologies = [
   },
   {
     name: "Python",
-    icon: typescript,
+    icon: python,
   },
   {
     name: "Vue JS",
-    icon: reactjs,
+    icon: vuejs,
   },
   {
-    name: "FastAPI",
-    icon: redux,
+    name: "PHP",
+    icon: php,
   },
   {
-    name: "SCSS",
-    icon: tailwind,
+    name: "MySQL",
+    icon: mysql,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "MS SQL Server",
+    icon: mssql,
   },
   {
-    name: "Postgres DB",
-    icon: mongodb,
+    name: "PostgreSQL",
+    icon: postgresql,
   },
   {
-    name: "SQL",
-    icon: threejs,
+    name: "Ubuntu",
+    icon: ubuntu,
   },
   {
     name: "git",
     icon: git,
   },
   {
-    name: "GitHub",
+    name: "Figma",
     icon: figma,
   },
   {
     name: "Power BI",
-    icon: docker,
+    icon: pbi,
   },
 ];
 
