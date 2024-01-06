@@ -19,9 +19,9 @@ import {
   giscoe,
   ulwembu,
   travel,
-  carrent,
-  jobit,
-  tripguide,
+  netcafe,
+  snake,
+  traffic,
   threejs,
 } from "../assets";
 
@@ -224,7 +224,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: snake,
     source_code_link: "https://github.com/DanMM7/Cobra.git",
   },
   {
@@ -245,7 +245,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: netcafe,
     source_code_link: "https://github.com/DanMM7/Netcafe.git",
   },
   {
@@ -266,7 +266,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: traffic,
     source_code_link: "https://github.com/DanMM7/Traffic_light.git",
   },
 ];

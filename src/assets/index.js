@@ -26,9 +26,9 @@ import travel from "./company/travel.png";
 import giscoe from "./company/giscoe.png";
 import ulwembu from "./company/ulwembu.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import netcafe from "./netcafe.png";
+import snake from "./snake.png";
+import traffic from "./traffic.png";
 
 export {
   logo,
@@ -56,7 +56,7 @@ export {
   giscoe,
   ulwembu,
   travel,
-  carrent,
-  jobit,
-  tripguide,
+  netcafe,
+  snake,
+  traffic,
 };
