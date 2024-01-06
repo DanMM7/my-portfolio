@@ -15,10 +15,10 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  zakheni,
+  giscoe,
+  ulwembu,
+  travel,
   carrent,
   jobit,
   tripguide,
@@ -118,7 +118,7 @@ const experiences = [
   {
     title: "Geo-spatial Software Developer",
     company_name: "Giscoe",
-    icon: starbucks,
+    icon: giscoe,
     iconBg: "#383E56",
     date: "Nov 2022 - Aug 2023",
     points: [
@@ -136,7 +136,7 @@ const experiences = [
   {
     title: "Oracle DBA support",
     company_name: "Ulwembu Business Services",
-    icon: tesla,
+    icon: ulwembu,
     iconBg: "#E6DEDD",
     date: "Mar 2022 – Aug 2022",
     points: [
@@ -151,7 +151,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Travel Now Agency",
-    icon: shopify,
+    icon: travel,
     iconBg: "#383E56",
     date: "Feb 2022 – Apr 2022",
     points: [
@@ -166,7 +166,7 @@ const experiences = [
   {
     title: "Power BI Developer",
     company_name: "Zakheni ICT",
-    icon: meta,
+    icon: zakheni,
     iconBg: "#E6DEDD",
     date: "Jan 2020 - Aug 2020",
     points: [
@@ -209,7 +209,7 @@ const projects = [
   {
     name: "Cobra",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Desktop application that allows users to play a game where the charactor they use can grow, everytime it eats a token, and must avoid the boundary.",
     tags: [
       {
         name: "Python",
@@ -228,12 +228,12 @@ const projects = [
     source_code_link: "https://github.com/DanMM7/Cobra.git",
   },
   {
-    name: "Check-Box",
+    name: "Netcafe Store",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web and Mobile application that enables users to order food and track their order online. The users and the store staff can view, update and remove orders as well.",
     tags: [
       {
-        name: "vue",
+        name: "PHP",
         color: "blue-text-gradient",
       },
       {
@@ -241,24 +241,24 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Mobile",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/DanMM7/check-box.git",
+    source_code_link: "https://github.com/DanMM7/Netcafe.git",
   },
   {
     name: "Traffic_light",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "An LED light system that is controlled by a mobile application, using an embbeded system to run the instructions for the App to the LEDs.",
     tags: [
       {
         name: "C",
         color: "blue-text-gradient",
       },
       {
-        name: "Embedded Systems",
+        name: "IoT",
         color: "green-text-gradient",
       },
       {
